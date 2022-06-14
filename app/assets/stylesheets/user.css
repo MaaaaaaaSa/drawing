@@ -1,0 +1,62 @@
+.navbar-brand {
+  font-weight: 800;
+}
+
+.registation-main {
+  height: calc(100vh - 56px);
+  width: 100vw;
+  background-color: rgb(170, 170, 170);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form-wrap {
+  width: 38vw;
+  height: 75vh;
+}
+
+.form-header {
+  padding: 10px 0;
+}
+
+.form-title-text {
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.form-group {
+  margin-bottom: 30px;
+}
+
+.form-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-text {
+  font-weight: 300;
+  color: black;
+}
+
+.indispensable {
+  color: #fffff9;
+  background-color: rgb(255, 72, 72);
+  padding: 2px;
+  border: solid 1px rgb(43, 43, 43);
+  border-radius: 5px;
+}
+
+.form-input {
+  width: 35vw;
+  height: 6vh;
+  padding: 8px;
+  border: solid 1px;
+  border-radius: 5px;
+}
+
+.register-red-btn {
+  width: 15vw;
+  height: 5vh;
+}
